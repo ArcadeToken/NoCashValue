@@ -1,6 +1,6 @@
 ## NoCashValue (NCV)
 
-![npm-image](https://img.shields.io/badge/v-0.0.0-f95b1e.svg)
+![npm-image](https://img.shields.io/badge/v-0.0.1-f95b1e.svg)
 ![version-image](https://img.shields.io/badge/license-MIT-f95b1e.svg)
 
 #### Description
